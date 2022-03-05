@@ -151,7 +151,7 @@ a:active {
   padding-right: 40px;
 }
 .sidebar {
-  width: 30%;
+  width: 20%;
   -webkit-background-size: cover;
   background-size: cover;
   background-color: #fff;
@@ -169,10 +169,10 @@ a:active {
 }
 .sidebar .logo-title .description {
   font-size: 14px;
-  color: #565654;
+  color: #20d4b9;
 }
 .sidebar .logo-title .logo {
-  margin-top: 20px;
+  margin: 0 auto;
 }
 .sidebar .logo-title .title h3 {
   text-transform: none;
