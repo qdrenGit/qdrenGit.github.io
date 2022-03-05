@@ -170,6 +170,7 @@ a:active {
 .sidebar .logo-title .description {
   font-size: 14px;
   color: #565654;
+  line-height: 1;
 }
 .sidebar .logo-title .logo {
   margin: 0 auto;
