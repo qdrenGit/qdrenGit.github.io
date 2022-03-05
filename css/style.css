@@ -178,16 +178,15 @@ a:active {
   text-transform: none;
   font-size: 2rem;
   font-weight: bold;
-  letter-spacing: 2px;
-  line-height: 1;
-  margin-top: 30px;
+  letter-spacing: 5px;
+  line-height: 5;
+  margin-top: 20px;
 }
 .sidebar .logo-title .title a {
   text-decoration: none;
-  color: #2cded9;
+  color: #464646;
   font-size: 2rem;
   font-weight: bold;
-  margin-top: 40px;
 }
 .sidebar .social-links {
   list-style: none;
