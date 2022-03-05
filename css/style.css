@@ -180,11 +180,11 @@ a:active {
   font-weight: bold;
   letter-spacing: 2px;
   line-height: 1;
-  margin-top: 40px;
+  margin-top: 30px;
 }
 .sidebar .logo-title .title a {
   text-decoration: none;
-  color: #464646;
+  color: #2cded9;
   font-size: 2rem;
   font-weight: bold;
   margin-top: 40px;
