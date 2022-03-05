@@ -165,14 +165,14 @@ a:active {
 }
 .sidebar .logo-title {
   text-align: center;
-  margin-top: -10px;
+  margin-top: -50px;
 }
 .sidebar .logo-title .description {
   font-size: 14px;
   color: #565654;
 }
 .sidebar .logo-title .logo {
-  margin: 0 auto;
+  margin-top: 20px;
 }
 .sidebar .logo-title .title h3 {
   text-transform: none;
