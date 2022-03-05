@@ -179,7 +179,7 @@ a:active {
   font-size: 2rem;
   font-weight: bold;
   letter-spacing: 5px;
-  line-height: 5;
+  line-height: 1;
   margin-top: 20px;
 }
 .sidebar .logo-title .title a {
